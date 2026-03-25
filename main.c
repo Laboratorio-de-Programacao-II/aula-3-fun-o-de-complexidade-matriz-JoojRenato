@@ -9,7 +9,7 @@ int conta_pares(int n, int mat[][n]) {
             }
         }
     }
-    return count;
+    return contador;
 }
 
 int main() {
